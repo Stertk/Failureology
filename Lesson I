@@ -1,0 +1,22 @@
+#Situation 1:
+a = you
+b = human
+if a = b:
+ print("a=b")
+print("You are loser")
+
+ 
+# Situation 2:
+
+a = you
+b = human
+if a ≠ b:
+ print("a≠b")
+print("You are animal loser")
+'''
+ 
+ 
+# Quiz
+age = int(input("your age:"))
+if age >= 0:
+ print("You are loser!")
