@@ -1,2 +1,2 @@
 # Failureology
-A cuuriculum about losers
+A curriculum about losers
