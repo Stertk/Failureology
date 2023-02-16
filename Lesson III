@@ -1,0 +1,18 @@
+>>> import turtle as t #Import turtle pixel module
+>>> t.forward(100) #Go forward 100 steps
+>>> t.shape('turtle') #Set the shape of turtle as turtle appearance
+>>> t.shape('arrow')
+>>> t.right(90) #Take 90 degree right turn #draw a square：
+>>> t.forward(100) #Go forward 100 steps,draw the second side
+>>> t.right(90)
+>>> t.forward(100) #Draw the third side
+>>> t.right(90)
+>>> t.forward(100) #Draw the fourth side
+>>> t.speed("slow")
+>>> t.circle(100) #Draw a circle with a radius of 100 with the current position as the center
+>>> t.ht() #Hide the turtle
+>>> t.isvisible() #Query the turtle display status
+False
+>>> t.st() #Display the turtle
+>>> t.isvisible() #Query the turtle display status
+True
